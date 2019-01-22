@@ -524,3 +524,18 @@ img.appsmall {
     width: 200px;
     height: auto;
 }
+
+.keynotes-container {
+    margin-top: 40px;
+}
+.keynotes {
+    width: 50%;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-content: space-around;
+}
+.keynotes img {
+    width: 100%;
+}
