@@ -43,9 +43,9 @@
       "start": "10:00AM",
       "end": "10:45AM",
       "room": "TBA",
-      "type": " ",
+      "type": "All ",
       "audience": " ",
-      "tags": " ",
+      "tags": "TBA ",
       "description": "TBA (2019 not scheduled yet)"
     },
     {
@@ -59,9 +59,9 @@
       "start": "11:00AM",
       "end": "11:45AM",
       "room": "TBA",
-      "type": " ",
+      "type": "All ",
       "audience": " ",
-      "tags": " ",
+      "tags": "TBA ",
       "description": "TBA (2019 not scheduled yet)"
     },
     {
@@ -93,7 +93,7 @@
       "room": "135",
       "type": "All",
       "audience": " ",
-      "tags": " ",
+      "tags": "TBA ",
       "description": "TBA (2019 not scheduled yet)"
     },
     {
@@ -107,9 +107,9 @@
       "start": "2:00PM",
       "end": "2:45PM",
       "room": "TBA",
-      "type": " ",
+      "type": "All ",
       "audience": " ",
-      "tags": " ",
+      "tags": "TBA ",
       "description": "TBA (2019 not scheduled yet)"
     },
     {
@@ -123,9 +123,9 @@
       "start": "3:00PM",
       "end": "3:45PM",
       "room": "TBA",
-      "type": " ",
+      "type": "All ",
       "audience": " ",
-      "tags": " ",
+      "tags": "TBA ",
       "description": "TBA (2019 not scheduled yet)"
     },
     {
@@ -139,9 +139,9 @@
       "start": "4:00PM",
       "end": "4:45PM",
       "room": "TBA",
-      "type": " ",
+      "type": "All ",
       "audience": " ",
-      "tags": " ",
+      "tags": "TBA ",
       "description": "TBA (2019 not scheduled yet)"
     },
     {
@@ -205,9 +205,9 @@
       "start": "10:00AM",
       "end": "10:45AM",
       "room": "TBA",
-      "type": " ",
+      "type": "All ",
       "audience": " ",
-      "tags": " ",
+      "tags": "TBA ",
       "description": "TBA (2019 not scheduled yet)"
     },
     {
@@ -221,9 +221,9 @@
       "start": "11:00AM",
       "end": "11:45AM",
       "room": "TBA",
-      "type": " ",
+      "type": "All ",
       "audience": " ",
-      "tags": " ",
+      "tags": "TBA ",
       "description": "TBA (2019 not scheduled yet)"
     },
     {
@@ -253,9 +253,9 @@
       "start": "1:00PM",
       "end": "1:45PM",
       "room": "TBA",
-      "type": " ",
+      "type": "All ",
       "audience": " ",
-      "tags": " ",
+      "tags": "TBA ",
       "description": "TBA (2019 not scheduled yet)"
     },
     {
@@ -269,9 +269,9 @@
       "start": "2:00PM",
       "end": "2:45PM",
       "room": "TBA",
-      "type": " ",
+      "type": "All ",
       "audience": " ",
-      "tags": " ",
+      "tags": "TBA ",
       "description": "TBA (2019 not scheduled yet)"
     },
     {
@@ -285,9 +285,9 @@
       "start": "3:00PM",
       "end": "3:45PM",
       "room": "TBA",
-      "type": " ",
+      "type": "All ",
       "audience": " ",
-      "tags": " ",
+      "tags": "TBA ",
       "description": "TBA (2019 not scheduled yet)"
     },
     {
@@ -301,9 +301,9 @@
       "start": "4:00PM",
       "end": "4:45PM",
       "room": "TBA",
-      "type": " ",
+      "type": "All ",
       "audience": " ",
-      "tags": " ",
+      "tags": "TBA ",
       "description": "TBA (2019 not scheduled yet)"
     }
   ]
