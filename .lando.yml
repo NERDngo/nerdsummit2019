@@ -1,0 +1,4 @@
+name: nerds-2019
+recipe: lemp
+config:
+  webroot: .
