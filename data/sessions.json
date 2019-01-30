@@ -427,7 +427,7 @@
       "end": "11:45AM",
       "room": "145",
       "type": "Project and Business Management",
-      "name": "Beta Testing: Clever title forthcoming",
+      "name": "Beta Testing in Your Business: You Beta Believe It",
       "speaker": "Jacki Jacobs",
       "description": "Beta testing is not just for programmers. Learn how to use Facebook to cultivate the right testers, guide them to utilize their full potential and communicate with them to get the results you need. \nAlso learn why beta testing is important and how you can use the results after the tests are over. \nPLUS some great ideas to help you turn those beta testers into loyal consumers and referral generation machines."
     },
@@ -599,7 +599,7 @@
     {
       "id": 55,
       "order": 46,
-      "start": "4:15AM",
+      "start": "4:15PM",
       "end": "5:00PM",
       "room": "135",
       "type": "Project and Business Management",
@@ -610,7 +610,7 @@
     {
       "id": 56,
       "order": 47,
-      "start": "4:15AM",
+      "start": "4:15PM",
       "end": "5:00PM",
       "room": "145",
       "type": "DevOps",
@@ -621,7 +621,7 @@
     {
       "id": 57,
       "order": 48,
-      "start": "4:15AM",
+      "start": "4:15PM",
       "end": "5:00PM",
       "room": "221",
       "type": "Frontend Development",
@@ -632,7 +632,7 @@
     {
       "id": 58,
       "order": 49,
-      "start": "4:15AM",
+      "start": "4:15PM",
       "end": "5:00PM",
       "room": "321",
       "type": "DevOps",
@@ -643,7 +643,7 @@
     {
       "id": 59,
       "order": 50,
-      "start": "4:15AM",
+      "start": "4:15PM",
       "end": "5:00PM",
       "room": "329",
       "type": "Project and Business Management",
