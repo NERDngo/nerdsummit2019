@@ -1,0 +1,45 @@
+{
+  "Platinum": [
+    {
+      "sponsor": "UMass College of Natural Science",
+      "logo": "CNS-wordmark.jpg"
+    },
+    {
+      "sponsor": "Last Call Media",
+      "logo": "lcm-platinum.png"
+    }
+  ],
+  "Gold": [
+    {
+      "sponsor": "Common Media",
+      "logo": "cmi.jpg"
+    }
+  ],
+  "Silver": [
+    {
+      "sponsor": "Baypath University",
+      "logo": "baypath-sponsor.jpg"
+    }
+  ],
+  "Booth Sponsor": [
+    {
+      "sponsor": "Carv.io",
+      "logo": "carvio.png"
+    }
+  ],
+  "Community Sponsor": [
+    {
+      "sponsor": "Softescu",
+      "logo": "softescu.png"
+    },
+    {
+      "sponsor": "FIT Solutions",
+      "logo": "fit-logo-2019.jpg"
+    },
+    {
+      "sponsor": "Just Peachy",
+      "logo": "just-peachy.jpg"
+    }
+  ]
+}
+
