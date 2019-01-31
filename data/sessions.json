@@ -267,7 +267,7 @@
     {
       "id": 25,
       "order": 21,
-      "start": "4:15AM",
+      "start": "4:15PM",
       "end": "5:00PM",
       "room": "135",
       "type": "Project and Business Management",
@@ -278,7 +278,7 @@
     {
       "id": 26,
       "order": 22,
-      "start": "4:15AM",
+      "start": "4:15PM",
       "end": "5:00PM",
       "room": "145",
       "type": "Frontend Development",
@@ -289,7 +289,7 @@
     {
       "id": 27,
       "order": 23,
-      "start": "4:15AM",
+      "start": "4:15PM",
       "end": "5:00PM",
       "room": "221",
       "type": "Backend Development",
@@ -300,7 +300,7 @@
     {
       "id": 28,
       "order": 24,
-      "start": "4:15AM",
+      "start": "4:15PM",
       "end": "5:00PM",
       "room": "321",
       "type": "Design",
@@ -311,7 +311,7 @@
     {
       "id": 29,
       "order": 25,
-      "start": "4:15AM",
+      "start": "4:15PM",
       "end": "5:00PM",
       "room": "329",
       "type": "DevOps",
