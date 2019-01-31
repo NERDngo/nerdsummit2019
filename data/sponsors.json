@@ -1,6 +1,6 @@
 [
   {
-    "level": "Platinum":
+    "level": "Platinum",
     "sponsors": [
       {
         "sponsor": "UMass College of Natural Science",
@@ -13,7 +13,7 @@
     ]
   },
   {
-    "level": "Gold":
+    "level": "Gold",
     "sponsors": [
       {
         "sponsor": "Common Media",
@@ -22,7 +22,7 @@
     ]
   },
   {
-    "level": "Silver":
+    "level": "Silver",
     "sponsors": [
       {
         "sponsor": "Baypath University",
@@ -31,7 +31,7 @@
     ]
   },
   {
-    "level": "Booth Sponsor":
+    "level": "Booth Sponsor",
     "sponsors": [
       {
         "sponsor": "Carv.io",
@@ -40,7 +40,7 @@
     ]
   },
   {
-    "level": "Community":
+    "level": "Community",
     "sponsors": [
       {
         "sponsor": "Softescu",
