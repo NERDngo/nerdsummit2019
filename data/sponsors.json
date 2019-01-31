@@ -1,45 +1,59 @@
-{
-  "Platinum": [
-    {
-      "sponsor": "UMass College of Natural Science",
-      "logo": "CNS-wordmark.jpg"
-    },
-    {
-      "sponsor": "Last Call Media",
-      "logo": "lcm-platinum.png"
-    }
-  ],
-  "Gold": [
-    {
-      "sponsor": "Common Media",
-      "logo": "cmi.jpg"
-    }
-  ],
-  "Silver": [
-    {
-      "sponsor": "Baypath University",
-      "logo": "baypath-sponsor.jpg"
-    }
-  ],
-  "Booth Sponsor": [
-    {
-      "sponsor": "Carv.io",
-      "logo": "carvio.png"
-    }
-  ],
-  "Community Sponsor": [
-    {
-      "sponsor": "Softescu",
-      "logo": "softescu.png"
-    },
-    {
-      "sponsor": "FIT Solutions",
-      "logo": "fit-logo-2019.jpg"
-    },
-    {
-      "sponsor": "Just Peachy",
-      "logo": "just-peachy.jpg"
-    }
-  ]
-}
-
+[
+  {
+    "level": "Platinum":
+    "sponsors": [
+      {
+        "sponsor": "UMass College of Natural Science",
+        "logo": "CNS-wordmark.jpg"
+      },
+      {
+        "sponsor": "Last Call Media",
+        "logo": "lcm-platinum.png"
+      }
+    ]
+  },
+  {
+    "level": "Gold":
+    "sponsors": [
+      {
+        "sponsor": "Common Media",
+        "logo": "cmi.jpg"
+      }
+    ]
+  },
+  {
+    "level": "Silver":
+    "sponsors": [
+      {
+        "sponsor": "Baypath University",
+        "logo": "baypath-sponsor.jpg"
+      }
+    ]
+  },
+  {
+    "level": "Booth Sponsor":
+    "sponsors": [
+      {
+        "sponsor": "Carv.io",
+        "logo": "carvio.png"
+      }
+    ]
+  },
+  {
+    "level": "Community":
+    "sponsors": [
+      {
+        "sponsor": "Softescu",
+        "logo": "softescu.png"
+      },
+      {
+        "sponsor": "FIT Solutions",
+        "logo": "fit-logo-2019.jpg"
+      },
+      {
+        "sponsor": "Just Peachy",
+        "logo": "just-peachy.jpg"
+      }
+    ]
+  }
+]
