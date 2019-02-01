@@ -155,15 +155,15 @@
       "description": "Jared will delight and entertain you as he explores the vast opportunities and interesting challenges UX professionals are now facing. If you’ve seen Jared present before, you know why this presentation is something not to be missed."
     },
     {
-      "id": 15,
-      "order": 11,
+      "id": 55,
+      "order": 46,
       "start": "2:15PM",
       "end": "3:00PM",
       "room": "135",
-      "type": "Frontend Development",
-      "name": "An Intro to Service Workers",
-      "speaker": "Aaron Manire",
-      "description": "Progressive Web Apps are all the rage these days and we’re just beginning to see the emergence of the offline web. Key to building PWAs, service workers enable features like offline fallbacks and notifications. \n\nThis session will give you enough to get started building your own service worker-enabled pages. We’ll review the service worker lifecycle, Fetch and Cache APIs, PostMessage() method, and some common gotchas."
+      "type": "Project and Business Management",
+      "name": "User-Story Driven Threat Modeling",
+      "speaker": "Robert Hurlbut",
+      "description": "Threat modeling is a way of thinking about what could go wrong and how to prevent it. When it comes to building software, some software shops either skip the important step of threat modeling in secure software design or, they have tried threat modeling before but haven't quite figured out how to connect the threat models to real world software development and its priorities. Threat modeling should be part of your secure software design process. In this session we will look at some of the latest advances in threat modeling integrated with Agile Development processes by using User Stories and Abuser Stories. This process is iterative and meant to keep step with Agile Development practices. By enumerating Threats against User Stories / Abuser Stories, you are not threat modeling an entire/massive system, but going granular by enumerating threats against relevant user stories. Finally, you will see how this process facilitates the creation of multiple segues into Security Test Cases and Mitigation Plans. You will see how this process works with an automated approach to security test cases."
     },
     {
       "id": 16,
@@ -597,15 +597,15 @@
       "description": "You might think that in order to grow your business you should always be looking for your next customer, but the truth is that your current customers are your biggest source of potential growth. \n\nRepeat customers, glowing recommendations, and word of mouth marketing will take your business farther and with a fraction of the cost of constantly chasing down the next lead. \n\nIn this session, you'll learn a few powerful tools and strategies for not only keeping your clients happy but for exceeding expectations and turning them into champions of your business. \n\nI'll cover four steps for repairing a damaged client relationship, methods for resolving a missed deadline or miscommunication, and how to set up a ticketing system that actually works for you. We’ll also revise an email together so it instills confidence, rather than concern. \n"
     },
     {
-      "id": 55,
-      "order": 46,
+      "id": 15,
+      "order": 11,
       "start": "4:15PM",
       "end": "5:00PM",
       "room": "135",
-      "type": "Project and Business Management",
-      "name": "User-Story Driven Threat Modeling",
-      "speaker": "Robert Hurlbut",
-      "description": "Threat modeling is a way of thinking about what could go wrong and how to prevent it. When it comes to building software, some software shops either skip the important step of threat modeling in secure software design or, they have tried threat modeling before but haven't quite figured out how to connect the threat models to real world software development and its priorities. Threat modeling should be part of your secure software design process. In this session we will look at some of the latest advances in threat modeling integrated with Agile Development processes by using User Stories and Abuser Stories. This process is iterative and meant to keep step with Agile Development practices. By enumerating Threats against User Stories / Abuser Stories, you are not threat modeling an entire/massive system, but going granular by enumerating threats against relevant user stories. Finally, you will see how this process facilitates the creation of multiple segues into Security Test Cases and Mitigation Plans. You will see how this process works with an automated approach to security test cases."
+      "type": "Frontend Development",
+      "name": "An Intro to Service Workers",
+      "speaker": "Aaron Manire",
+      "description": "Progressive Web Apps are all the rage these days and we’re just beginning to see the emergence of the offline web. Key to building PWAs, service workers enable features like offline fallbacks and notifications. \n\nThis session will give you enough to get started building your own service worker-enabled pages. We’ll review the service worker lifecycle, Fetch and Cache APIs, PostMessage() method, and some common gotchas."
     },
     {
       "id": 56,
