@@ -516,7 +516,7 @@
       "room": "221",
       "type": "Backend Development",
       "name": "Configuration Management: A True Life Story",
-      "speaker": "Nathan Dentzau",
+      "speaker": "Nathan Dentzau & John Picozzi",
       "description": "Long gone are the days of copying databases, creating a custom module, or creating features to push new functionality to your Drupal Website. Those days and arcane methods are a thing of the past with Drupal 8. Why or how you ask? Read on my friend, read on! \n\nManaging configuration in Drupal 8 has become much easier with the introduction of configuration management. In this talk, we will review “good practices” Oomph and Chromatic have established for configuration management, what tools we use on all of our Drupal 8 projects and how to use them. \n\nWe will discuss the following list of modules: \n\n* Configuration Manager \n* Configuration Split \n* Configuration Read-only mode \n* Configuration Ignore \n\nWhat you can expect to learn from this talk: \n\n* How to export and import configuration in Drupal 8 \n* How to manage configuration in version control \n* How to manage configuration for multiple environments \n* How to prevent configuration changes in production \n\nThis talk is for all skill levels and aims to make everyone’s life easier through the magic of Drupal Configuration Management. We look forward to sharing our experience with you and answering any questions you may have."
     },
     {
