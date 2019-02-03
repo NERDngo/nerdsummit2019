@@ -583,14 +583,21 @@ background: #500092;
     font-size: 72px;
     color: #FFFFFF;
 }
-
 #team-container {
     width: 80%;
     margin: auto;
-    display: flex;
-    flex-direction: row;
-    flex-wrap: nowrap;
     color: #FFFFFF;
+}
+
+@media (min-width: 960px) {
+    #team-container {
+        width: 80%;
+        margin: auto;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: nowrap;
+        color: #FFFFFF;
+    }
 }
 
 .first, .second, .third {
