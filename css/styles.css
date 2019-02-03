@@ -6,6 +6,7 @@ Pink            #ff3369
 Pink light      #e0699a
 Purple          #500092
 Purple light    #8302ee
+Orange          #f0852d
 
 */
 
@@ -211,7 +212,8 @@ body {
 }
 .sponsor-button ,
 .sponsor-button:hover {
-    background-color: #89e376;
+    /*background-color: #89e376;*/
+    background-color:  #6E11D0;
 }
 .sponsor-section .button-container {
     margin-bottom: 119px;
@@ -228,6 +230,9 @@ body {
 footer {
     background-color: #6e11cc;
     text-align: center;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    clear: both;
 }
 .footer-logo {
     padding: 37px 0 26px 0;
@@ -251,7 +256,7 @@ footer {
 }
 
 .location {
-    color: #500092;
+    color: #FFFFFF;
     font-size: 1.2rem;
 }
 .location a {
@@ -260,6 +265,10 @@ footer {
     display: inline-block;
     background-color: #500092;
     padding: 0px 5px 0px 5px;
+}
+.location h2 {
+    color: #500092;
+    font-size: 72px;
 }
 
 /* #sessions is the div that sessions are inside of */
@@ -384,6 +393,11 @@ Purple light    #8302ee
 .sunday .inner {
     background-color: #e0699a;
     margin: 0 10px 0 10px;
+}
+
+.sessions-section {
+    background: #fffb83;
+    padding-bottom: 30px;
 }
 
 .sessions-section h2.section-header {
@@ -538,4 +552,48 @@ img.appsmall {
 }
 .keynotes img {
     width: 100%;
+}
+
+.location-section {
+    background: #ff3369;
+    color: #FFFFFF;
+}
+
+.location-section h2 {
+    color: #FFFFFF;
+}
+
+.help-section {
+background: #ff3369;
+    color: #FFFFFF;
+}
+
+.help-section h2 {
+    font-size: 72px;
+    color: #FFFFFF;
+}
+
+.team-section {
+background: #500092;
+    color: #FFFFFF;
+    padding-bottom: 30px;
+}
+
+.team-section h2 {
+    font-size: 72px;
+    color: #FFFFFF;
+}
+
+#team-container {
+    width: 80%;
+    margin: auto;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    color: #FFFFFF;
+}
+
+.first, .second, .third {
+    //width: 30%;
+    flex-grow: 1;
 }
