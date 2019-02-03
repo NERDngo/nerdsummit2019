@@ -20,7 +20,8 @@
     }
     /* Mobile menu overlay*/
     #hamburger:checked ~ .mobile-menu {
-        background-color: rgba(123, 245, 255, 0.9);
+        /*background-color: rgba(123, 245, 255, 0.9);*/
+        background-color:  #ff3369;
         z-index: 1;
         /*transform: translateY(0%);*/
     }
