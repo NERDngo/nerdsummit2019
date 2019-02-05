@@ -454,15 +454,15 @@
       "description": "The Unity game engine provides a powerful, flexible tool for creating 2D and 3D games and simulations. With scripting in C#, you can create simple games or complex simulations, and run them on any target platform. This talk would be a rapid overview of how Unity projects are made, and how to add a sprinkle of code to make something fun. \n\nA brief handful of slides, mostly would focus on a live demo with some pre-made pieces to drop in during the talk to make something fun in the 30 minute window."
     },
     {
-      "id": 42,
-      "order": 35,
+      "id": 49,
+      "order": 40,
       "start": "11:00AM",
       "end": "11:45AM",
       "room": "329",
-      "type": "Technology Horizons",
-      "name": "Meta and Schema: Defining the Content about your Content",
-      "speaker": "Jim Birch",
-      "description": "We know how our content looks on your own website, on desktops, laptops and phones, but how does it look when it leaves your site? Using open source protocols like Schema.org, Open Graph, and W3C specified meta data to markup your structured data, we can help boost our content’s chances of outperforming its competition in search engines, and when shared on social media sites. \n\nThis session presents a whirlwind, two fisted, no holds barred, data filled session that has almost too much information about Schema.org schemas for structured data and current best practice meta tags, and how to implement them in Content Management Systems like WordPress and Drupal. \n\nThis session is meant for anyone responsible for publishing content online and for those that empower them to do so. \n\nAttendees will come away from the session knowing how to implement and test Schema.org schemas, and current meta tag best practices in WordPress and Drupal to gain search features in Google and enhance the look of your content on social media sites like Facebook, Twitter, LinkedIn, and Pinterest."
+      "type": "Frontend Development",
+      "name": "Introduction to React",
+      "speaker": "Rick Hood",
+      "description": "Heard about React and want to know more? This session is for people who have heard the buzz about React, have no idea how it works and want to find out. This session will give you an understanding of the key building blocks in React, including components, props and state. You will come away from the session thinking \"oh that's what it is\" with lots of resources on where to go to learn further, with links and reviews of courses you can do in a weekend."
     },
     {
       "id": 43,
@@ -531,15 +531,15 @@
       "description": "Interested in modernizing your code but don't know where to begin? \n\nTechniques like automated testing and static analysis bring tremendous value to a software project, but it can be difficult to get started, especially with an existing codebase. \n\nI'll show you the exact steps I took to bring modern software engineering techniques to a legacy open source library. The project had been abandoned and lacked documentation, tests, or even build instructions. Through a series of simple steps, I added automation and checks that allow any new developer to build and extend the codebase. \n\nIf you attend this talk, you'll learn to: \n\n* Build a container for your code so that it runs on any platform \n* Add automated testing to your code to prevent regressions in functionality \n* Examine code coverage to measure the effectiveness of your tests \n* Use tools to enforce consistent style conventions in your code \n* Apply static analysis to catch careless errors automatically"
     },
     {
-      "id": 49,
-      "order": 40,
+      "id": 42,
+      "order": 35,
       "start": "2:15PM",
       "end": "3:00PM",
       "room": "329",
-      "type": "Frontend Development",
-      "name": "Introduction to React",
-      "speaker": "Rick Hood",
-      "description": "Heard about React and want to know more? This session is for people who have heard the buzz about React, have no idea how it works and want to find out. This session will give you an understanding of the key building blocks in React, including components, props and state. You will come away from the session thinking \"oh that's what it is\" with lots of resources on where to go to learn further, with links and reviews of courses you can do in a weekend."
+      "type": "Technology Horizons",
+      "name": "Meta and Schema: Defining the Content about your Content",
+      "speaker": "Jim Birch",
+      "description": "We know how our content looks on your own website, on desktops, laptops and phones, but how does it look when it leaves your site? Using open source protocols like Schema.org, Open Graph, and W3C specified meta data to markup your structured data, we can help boost our content’s chances of outperforming its competition in search engines, and when shared on social media sites. \n\nThis session presents a whirlwind, two fisted, no holds barred, data filled session that has almost too much information about Schema.org schemas for structured data and current best practice meta tags, and how to implement them in Content Management Systems like WordPress and Drupal. \n\nThis session is meant for anyone responsible for publishing content online and for those that empower them to do so. \n\nAttendees will come away from the session knowing how to implement and test Schema.org schemas, and current meta tag best practices in WordPress and Drupal to gain search features in Google and enhance the look of your content on social media sites like Facebook, Twitter, LinkedIn, and Pinterest."
     },
     {
       "id": 50,
