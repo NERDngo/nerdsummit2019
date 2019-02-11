@@ -270,10 +270,10 @@
       "start": "4:15PM",
       "end": "5:00PM",
       "room": "135",
-      "type": "TBA",
-      "name": "TBA",
-      "speaker": "TBA",
-      "description": "TBA"
+      "type": "DevOps",
+      "name": "How your webserver processes requests",
+      "speaker": "Oleksandr Trotsenko",
+      "description": "In this session you will receive a technical overview of how modern webservers cope with processing concurrent incoming requests.\n\nWe will begin by considering two different theoretical approaches to tackling this problem: multi-process (such as Apache prefork) and event-driven (such as NGINX).\n\nOnce equipped with necessary theoretical knowledge, we'll dive into practice! After a comprehensive pros and cons analysis we will see how to configure your webserver based on available hardware and expected workload.\n\nWhile the topic may sound complex, no special knowledge/experience is required from you to attend the session. Anyone interested in performance and webservers would benefit from it!"
     },
     {
       "id": 26,
