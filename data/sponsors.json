@@ -61,6 +61,14 @@
       {
         "sponsor": "Just Peachy",
         "logo": "just-peachy.jpg"
+      },
+      {
+        "sponsor": "Aquia",
+        "logo": "acquia-logo.png"
+      },
+      {
+        "sponsor": "UMass College of Information and Computer Sciences",
+        "logo": "UMass_CICS.jpg"
       }
     ]
   }
