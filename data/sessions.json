@@ -122,6 +122,17 @@
       "description": "I’ve recently had to perform a few WordPress to Drupal migrations and I’d like to share my experiences with you. \n\nI know there are many other migration talks and videos out there and maybe even at the NERDSummit but this one will be coming from a holistic perspective.  \n\nYou know migrations can be tricky, hard and less than fun. There are methodologies to implement, modules to know, tricks of the trade and pitfalls to avoid. I implore you to attend my session and learn from my mistakes. \n\nThings you'll walk away knowing: \n- Where to start \n- What questions to ask \n- What tools you'll need \n- What steps to follow \n- What to watch out for \n- When and where to get help \n"
     },
     {
+      "id": 11.5,
+      "order": 9.5,
+      "start": "11:00AM",
+      "end": "11:45AM",
+      "room": "325",
+      "type": "Technology Horizons",
+      "name": "How to get your first (or next) technical job",
+      "speaker": "Brian Krusell - Director of CICS Careers at UMass Amherst",
+      "description": "Learn what it takes to decide what career you want next, search for opportunities, share your story, and ace the interview. Session will include interactive components using LinkedIn and other career resources."
+    },
+    {
       "id": 12,
       "order": 10,
       "start": "11:00AM",
