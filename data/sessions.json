@@ -67,6 +67,17 @@
       "description": "This talk will be an intro to Kubernetes. I will cover how you can get started deploying apps to Kubernetes, some key terms and technologies, some common tools you can use to try Kubernetes, and an overview of the field. Once we all have a reasonably good understanding of what we're talking about, we'll talk about why you might decide to deploy your apps using Kubernetes - and why you might choose other deployment models instead."
     },
     {
+      "id": 6.5,
+      "order": 4.5,
+      "start": "10:00AM",
+      "end": "10:45AM",
+      "room": "325",
+      "type": "Technology Horizons",
+      "name": "Jobs for NERDS",
+      "speaker": "Jackie Fallon",
+      "description": "The team at FIT Staffing will cover an overview of Jobs in the Valley, specific to Developers. We will also cover updated Salary data for tech jobs in the local area and how they compare to other areas of the country."
+    },
+    {
       "id": 7,
       "order": 5,
       "start": "10:00AM",
@@ -186,6 +197,17 @@
       "name": "Ageism – Let’s expose this one too! The ‘future You’ will thank you.",
       "speaker": "Sharon Rieger",
       "description": "The Tech industry, especially the open-source community, has \nbeen very vocal about the importance of inclusivity in Tech. In 2017 and 2018 we \nwitnessed an outcry for Tech to include women, non-binaries, people of color, \nand the LGBT community. NERD was the first event that I attended that brought \nthis to the attention of its attendees. Thanks NERD! I propose that another \ngroup of under-represented people needs advocates and encouragement-  women over 40 who want to break into Technology. \nWe are awesome and valuable. The obstacles, glass ceilings, and blatant bias we’ve \nfaced have prevented many talented women from entering the industry. For others, \nit has made us stronger and now we can help each other. \n\nThis will be an interactive session that will include humor \nand empathy in a non-judgmental tone. We all have biases, it’s only human. Let’s \npull them out of the shadows and talk about them in an open, friendly, and supportive \nenvironment. Everyone is welcome, but I encourage people who are at least ‘willing \nto be willing’ to change behaviors and false belief systems to attend. \n\nAt the end of the session, I hope to give women and men the \ncourage to go for what they want, at any age. Let’s stop pitting age groups \nagainst each other. Age discrimination affects all of us. At the very least, I hope \nto give people something to think about the next time they are inclined to accept \nderogatory feelings, attitudes, or shame about their age. \n\n\n\n\n\n"
+    },
+    {
+      "id": 16.5,
+      "order": 12.5,
+      "start": "2:15PM",
+      "end": "3:00PM",
+      "room": "325",
+      "type": "Technology Horizons",
+      "name": "Resume Review",
+      "speaker": "Jackie Fallon",
+      "description": "Representatives from FIT Staffing will be available for one-on-one sessions with attendees to review their resumes and/or questions they have about interviewing. Please bring your resume with you."
     },
     {
       "id": 17,
