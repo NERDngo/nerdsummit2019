@@ -484,7 +484,7 @@
       "type": "Fun With Code",
       "name": "Introduction to Unity",
       "speaker": "Christine Hart",
-      "description": "The Unity game engine provides a powerful, flexible tool for creating 2D and 3D games and simulations. With scripting in C#, you can create simple games or complex simulations, and run them on any target platform. This talk would be a rapid overview of how Unity projects are made, and how to add a sprinkle of code to make something fun. \n\nA brief handful of slides, mostly would focus on a live demo with some pre-made pieces to drop in during the talk to make something fun in the 30 minute window."
+      "description": "If you've ever considered making a game, chances are that you'll have heard of Unity. As a cross-platform tool that can be used to build 3D or 2D games and simulations, Unity has become hugely popular to entry-level and professional game developers alike. This talk will be a fast-paced overview of some of the built-in and some of the almost-built-in tools that can be used to rapidly pull together prototypes or simple games, and give some live demos and insights into what it can do and how to work with it to make something fun. Expect a little bit of C# code, a handful of slides, and some explosions."
     },
     {
       "id": 49,
