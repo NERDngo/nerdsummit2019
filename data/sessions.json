@@ -94,10 +94,10 @@
       "start": "11:00AM",
       "end": "11:45AM",
       "room": "135",
-      "type": "Technology Horizons",
-      "name": "#VOICEFIRST: Ready Your Content T0 Serve 50% Of Global Searches",
-      "speaker": "Gaurav Mishra",
-      "description": "Get your enterprise content ready to serve the voice-based search \n\nLast heard, 20% of searches on Google were voice searches, and they are set to be 50% by 2020. Last year Amazon Echo was the bestselling product on Christmas on Amazon and Google home were mostly sold out. \n\nIf enterprises want to still connect with customers, they have to prepare their content for the voicebots. This means structuring and organizing your content in a way that is usable by voicebots and other AI-powered assistants. \n\nJoin the session to understand what 'voice-first' means for content creators and e-commerce platforms, and how to respond to these trends. \n\nKey Takeaways: \n\nWhy a voice content strategy is critical for enterprises \nThe differences between voice-based and web-based content, and how that affects user experience \nThe basics of optimizing your content for voice search \nWhy bots should be your next strategic investment \nYou can find my last talk video on https://www.youtube.com/watch?v=7zRR2of5s8s"
+      "type": "Frontend Development",
+      "name": "Getting Started with Web Accessibility: Tips, Tricks, and Best Practices",
+      "speaker": "Alex Brenon",
+      "description": "Making your website accessible to as many people as possible can seem intimidating at first. What does 'accessibility' even mean? How can we create a web that caters to all users? However, it doesn't have to be an all-or-nothing effort - every small change you make will make a difference. Front-end designers, content creators, and developers can all do their part to make your site accessible to everyone. Accessibility has additional benefits, like your site experience being more enjoyable for all users and increased SEO. This talk will primarily focus on design and content decisions and using HTML, ARIA, and CSS. You'll learn how to: Create websites that are easier for everyone to use, Retrofit existing websites, Test your site with automated and manual tools"
     },
     {
       "id": 9,
