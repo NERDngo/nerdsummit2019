@@ -188,6 +188,28 @@
       "description": "Threat modeling is a way of thinking about what could go wrong and how to prevent it. When it comes to building software, some software shops either skip the important step of threat modeling in secure software design or, they have tried threat modeling before but haven't quite figured out how to connect the threat models to real world software development and its priorities. Threat modeling should be part of your secure software design process. In this session we will look at some of the latest advances in threat modeling integrated with Agile Development processes by using User Stories and Abuser Stories. This process is iterative and meant to keep step with Agile Development practices. By enumerating Threats against User Stories / Abuser Stories, you are not threat modeling an entire/massive system, but going granular by enumerating threats against relevant user stories. Finally, you will see how this process facilitates the creation of multiple segues into Security Test Cases and Mitigation Plans. You will see how this process works with an automated approach to security test cases."
     },
     {
+      "id": 18,
+      "order": 14,
+      "start": "2:15PM",
+      "end": "3:00PM",
+      "room": "145",
+      "type": "Backend Development",
+      "name": "Giving REST a Rest: An Introduction to GraphQL",
+      "speaker": "Gary Parker",
+      "description": "GraphQL is an API querying language created by Facebook to provide clients with the power to ask for exactly the data they need. \n\nIn this presentation I'll provide a brief introduction to GraphQL, discuss the deficiencies in REST it tries to solve and then dive right in with a live coding demonstration. In the coding exercise I'll be showing a simple backend implementation (NodeJS), the built-in tooling (GraphiQL), along with a frontend implementation (React)."
+    },
+    {
+      "id": 19,
+      "order": 15,
+      "start": "2:15PM",
+      "end": "3:00PM",
+      "room": "221",
+      "type": "Fun With Code",
+      "name": "Let’s combine coding, 3D modeling and 3D printing in SketchUp",
+      "speaker": "Alexander C Schreyer",
+      "description": "SketchUp is not just a major architectural 3D modeling software, it can be used for coding, too. Moreover, results can then be 3D printed! Having fun with 3D coding and creating parametric, printable shapes is not too hard and will be shown in this session using several easy to follow examples. \nThis session is intended for a beginner or intermediate audience. \nTopics covered are: Ruby coding in SketchUp, SketchUp's API model, 3D printing export, Simple approaches to coding and extension in SketchUp. \n"
+    },
+    {
       "id": 16,
       "order": 12,
       "start": "2:15PM",
@@ -219,28 +241,6 @@
       "name": "How to Build a Better Product",
       "speaker": "Heather ONeill",
       "description": "Building a new product is addicting. \n\nThe thrill of watching your idea come to life is hard to beat, and it feels like progress. So it’s no wonder that most entrepreneurs and founders start with an idea and move right to code. But if you want success – and the even bigger thrill of people BUYING your product – you need to tamp down that ‘if you build it, they will come’ enthusiasm and do some intentional planning, research and validation. \n\nIn this talk, we’ll cover the essential blueprint you can follow to ensure your product’s success, all before writing any code."
-    },
-    {
-      "id": 18,
-      "order": 14,
-      "start": "2:15PM",
-      "end": "3:00PM",
-      "room": "145",
-      "type": "Backend Development",
-      "name": "Giving REST a Rest: An Introduction to GraphQL",
-      "speaker": "Gary Parker",
-      "description": "GraphQL is an API querying language created by Facebook to provide clients with the power to ask for exactly the data they need. \n\nIn this presentation I'll provide a brief introduction to GraphQL, discuss the deficiencies in REST it tries to solve and then dive right in with a live coding demonstration. In the coding exercise I'll be showing a simple backend implementation (NodeJS), the built-in tooling (GraphiQL), along with a frontend implementation (React)."
-    },
-    {
-      "id": 19,
-      "order": 15,
-      "start": "2:15PM",
-      "end": "3:00PM",
-      "room": "221",
-      "type": "Fun With Code",
-      "name": "Let’s combine coding, 3D modeling and 3D printing in SketchUp",
-      "speaker": "Alexander C Schreyer",
-      "description": "SketchUp is not just a major architectural 3D modeling software, it can be used for coding, too. Moreover, results can then be 3D printed! Having fun with 3D coding and creating parametric, printable shapes is not too hard and will be shown in this session using several easy to follow examples. \nThis session is intended for a beginner or intermediate audience. \nTopics covered are: Ruby coding in SketchUp, SketchUp's API model, 3D printing export, Simple approaches to coding and extension in SketchUp. \n"
     },
     {
       "id": 20,
