@@ -282,7 +282,7 @@
       "end": "4:00PM",
       "room": "321",
       "type": "Frontend Development",
-      "name": "Advanced React",
+      "name": "CANCELLED <strike>Advanced React</strike>",
       "speaker": "Jochen Rau",
       "description": "In this hands-on session we will explore the next steps after you have mastered the basics of React. You will learn how to interact and integrate with other JavaScript libraries, how to efficiently use Context and Portals, and how to keep your implementation clean by passing higher-order functions. Bring your laptop if you want to follow the examples in your browser."
     },
