@@ -237,10 +237,10 @@
       "start": "2:15PM",
       "end": "3:00PM",
       "room": "329",
-      "type": "Project and Business Management",
-      "name": "CANCELLED <strike> How to Build a Better Product</strike> ",
-      "speaker": "Heather ONeill",
-      "description": "Building a new product is addicting. \n\nThe thrill of watching your idea come to life is hard to beat, and it feels like progress. So it’s no wonder that most entrepreneurs and founders start with an idea and move right to code. But if you want success – and the even bigger thrill of people BUYING your product – you need to tamp down that ‘if you build it, they will come’ enthusiasm and do some intentional planning, research and validation. \n\nIn this talk, we’ll cover the essential blueprint you can follow to ensure your product’s success, all before writing any code."
+      "type": "DevOps",
+      "name": "NEW Composer 101",
+      "speaker": "Mike Miles",
+      "description": "Composer is a package manager that alleviates the complexity of dependencies in PHP based projects (such as Drupal 8). This session provides an introduction to the core concepts behind package management and Composer. No previous knowledge of Composer required. Using practical examples as guidelines attendees will learn the basics of Composer, including: What composer is and the concepts of how it works; How to add composer to a project and packages to a project; Semantic versioning patterns for packages; General Do's and Don'ts when using Composer.  Attendees will leave this session with insights and basic knowledge of Composer. Including knowledge of how it works, the value it provides to projects and how to use it on any (PHP based) project."
     },
     {
       "id": 20,
